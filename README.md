@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello! My name is Dyego Henrique and I'm a passionate web developer!</h2>
+
+###
+
+<p align="left">I'm a frontend developer specialized in building intuitive and dynamic interfaces with React. I'm always looking for new challenges and improving my skills to become a fullstack developer.<br>I enjoy transforming ideas into engaging digital experiences, creating modern and efficient solutions. <br> I'm fascinated by technology and innovation, always exploring new tools and trends in the web world.</p>
 
 ###
 
@@ -41,11 +45,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dyegohrq/dyegohrq/output/snake.svg" alt="Snake animation" />
 
 ###
